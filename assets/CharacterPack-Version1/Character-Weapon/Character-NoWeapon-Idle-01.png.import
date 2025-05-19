@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcnpg0wp3fko4"
-path="res://.godot/imported/Character-NoWeapon-Idle-01.png-01f65f1ae5327ae4fff8fa8a15bb314e.ctex"
+path="res://.godot/imported/Character-NoWeapon-Idle-01.png-c143a2c084059c81a8abd20aa10d3933.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/CharacterPack-Version1/Character-No-Weapon/Character-NoWeapon-Idle-01.png"
-dest_files=["res://.godot/imported/Character-NoWeapon-Idle-01.png-01f65f1ae5327ae4fff8fa8a15bb314e.ctex"]
+source_file="res://assets/CharacterPack-Version1/Character-Weapon/Character-NoWeapon-Idle-01.png"
+dest_files=["res://.godot/imported/Character-NoWeapon-Idle-01.png-c143a2c084059c81a8abd20aa10d3933.ctex"]
 
 [params]
 
